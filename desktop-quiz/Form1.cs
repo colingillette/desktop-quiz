@@ -42,15 +42,21 @@ namespace desktop_quiz
                 user user1 = query.First<user>();
                 if (user1.password == userpw)
                 {
+                    //Testing
+                    MessageBox.Show($"{user1.username} is logged in.");
                     return user1;
                 }
                 else
                 {
+                    //Testing
+                    MessageBox.Show($"{user1.username} was found but has the incorrect password.");
                     return null;
                 }
             }
             else
             {
+                //Testing
+                MessageBox.Show($"{usernm} was not found.");
                 return null;
             }
         }
