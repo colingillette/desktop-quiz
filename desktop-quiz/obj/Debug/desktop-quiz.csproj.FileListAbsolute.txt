@@ -10,3 +10,16 @@ C:\Users\cgillette\Desktop\desktop-quiz\desktop-quiz\obj\Debug\desktop-quiz.cspr
 C:\Users\cgillette\Desktop\desktop-quiz\desktop-quiz\obj\Debug\desktop-quiz.csproj.CoreCompileInputs.cache
 C:\Users\cgillette\Desktop\desktop-quiz\desktop-quiz\obj\Debug\desktop-quiz.exe
 C:\Users\cgillette\Desktop\desktop-quiz\desktop-quiz\obj\Debug\desktop-quiz.pdb
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\bin\Debug\Database1.mdf
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\bin\Debug\Database1_log.ldf
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\bin\Debug\desktop-quiz.exe.config
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\bin\Debug\desktop-quiz.exe
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\bin\Debug\desktop-quiz.pdb
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\obj\Debug\desktop-quiz.csprojAssemblyReference.cache
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\obj\Debug\desktop_quiz.Form1.resources
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\obj\Debug\desktop_quiz.Form2.resources
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\obj\Debug\desktop_quiz.Properties.Resources.resources
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\obj\Debug\desktop-quiz.csproj.GenerateResource.cache
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\obj\Debug\desktop-quiz.csproj.CoreCompileInputs.cache
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\obj\Debug\desktop-quiz.exe
+C:\Users\mrg_3\Desktop\desktop-quiz\desktop-quiz\obj\Debug\desktop-quiz.pdb

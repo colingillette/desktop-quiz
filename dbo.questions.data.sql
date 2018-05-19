@@ -1,0 +1,5 @@
+﻿INSERT INTO [dbo].[questions] ([Id], [questtext], [correct_ans], [ans1], [ans2], [ans3]) VALUES (1, N'The worlds smallest country is?', N'Vatican City', N'Canada', N'Russia', N'Maldives')
+INSERT INTO [dbo].[questions] ([Id], [questtext], [correct_ans], [ans1], [ans2], [ans3]) VALUES (2, N'The brightest planet is?', N'Venus', N'Mercury', N'Mars', N'Neptune')
+INSERT INTO [dbo].[questions] ([Id], [questtext], [correct_ans], [ans1], [ans2], [ans3]) VALUES (3, N'When was table tennis introduces to the Olympics?', N'1988 at Seoul', N'1896 at Athens', N'1924 at Paris', N'1924 at Seoul')
+INSERT INTO [dbo].[questions] ([Id], [questtext], [correct_ans], [ans1], [ans2], [ans3]) VALUES (4, N'Which of these is not a planet?', N'Pluto', N'Neptune', N'Uranus', N'Saturn')
+INSERT INTO [dbo].[questions] ([Id], [questtext], [correct_ans], [ans1], [ans2], [ans3]) VALUES (5, N'In what sport does a jammer score a point for each opponent she skates past?', N'Roller Derby', N'Cricket', N'Field Hockey', N'Lacrosse')
